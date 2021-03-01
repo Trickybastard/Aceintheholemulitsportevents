@@ -84,6 +84,15 @@ footer {
 	padding: 2em;
 }
 
+.formstyle{
+    max-width: 100%;
+    margin: 2rem auto;
+    border: 5px solid #E74C3C;
+    padding: 2rem;
+    display: inline-grid;
+    
+    
+}
 
 /* Mobile menu */
 
